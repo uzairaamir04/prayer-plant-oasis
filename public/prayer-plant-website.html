@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prayer Plants: Complete Care Guide | Maranta Lover's Resource</title>
+  <meta name="description" content="Discover everything about Prayer Plants (Maranta) - care tips, varieties, troubleshooting, and styling ideas. Your complete guide to these magical moving plants.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    /* CSS Reset & Base */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    :root {
+      --background: #faf8f5;
+      --foreground: #2d3b2d;
+      --card: #f5f2ed;
+      --card-foreground: #2d3b2d;
+      --primary: #5a7a5a;
+      --primary-foreground: #faf8f5;
+      --secondary: #e8e4dc;
+      --secondary-foreground: #4a5a4a;
+      --muted: #e8e4dc;
+      --muted-foreground: #6b7b6b;
+      --accent: #c4a484;
+      --accent-foreground: #2d3b2d;
+      --border: #d4cfc5;
+      --forest: #3d5a3d;
+      --mint: #a8c5a8;
+      --earth: #c4a484;
+    }
+    
+    html {
+      scroll-behavior: smooth;
+    }
+    
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: var(--background);
+      color: var(--foreground);
+      line-height: 1.6;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+    
+    a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    /* Utility Classes */
+    .container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+    }
+    
+    .section-padding {
+      padding: 5rem 1.5rem;
+    }
+    
+    .bg-card {
+      background-color: var(--card);
+    }
+    
+    .text-center {
+      text-align: center;
+    }
+    
+    .badge {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: var(--secondary);
+      border-radius: 9999px;
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--secondary-foreground);
+      margin-bottom: 1.5rem;
+    }
+    
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem 2rem;
+      border-radius: 9999px;
+      font-weight: 600;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      border: none;
+    }
+    
+    .btn-primary {
+      background-color: var(--primary);
+      color: var(--primary-foreground);
+    }
+    
+    .btn-primary:hover {
+      background-color: var(--forest);
+      text-decoration: none;
+    }
+    
+    .card {
+      background: var(--background);
+      border-radius: 1.5rem;
+      padding: 2rem;
+      border: 1px solid var(--border);
+      transition: all 0.3s ease;
+    }
+    
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(90, 122, 90, 0.1);
+    }
+    
+    /* Navigation */
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      background: rgba(250, 248, 245, 0.9);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    
+    .nav-container {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .nav-logo {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--foreground);
+    }
+    
+    .nav-links {
+      display: none;
+      gap: 2rem;
+      list-style: none;
+    }
+    
+    .nav-links a {
+      color: var(--muted-foreground);
+      font-size: 0.875rem;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+    
+    .nav-links a:hover {
+      color: var(--primary);
+      text-decoration: none;
+    }
+    
+    @media (min-width: 1024px) {
+      .nav-links {
+        display: flex;
+      }
+    }
+    
+    /* Hero Section */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      padding-top: 5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .hero-bg {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(168, 197, 168, 0.2) 0%, rgba(196, 164, 132, 0.1) 100%);
+    }
+    
+    .hero-content {
+      position: relative;
+      z-index: 10;
+      display: grid;
+      gap: 3rem;
+      align-items: center;
+    }
+    
+    @media (min-width: 1024px) {
+      .hero-content {
+        grid-template-columns: 1fr 1fr;
+        gap: 4rem;
+      }
+    }
+    
+    .hero-title {
+      font-size: 2.5rem;
+      margin-bottom: 1.5rem;
+      color: var(--foreground);
+    }
+    
+    @media (min-width: 768px) {
+      .hero-title {
+        font-size: 3.5rem;
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .hero-title {
+        font-size: 4rem;
+      }
+    }
+    
+    .hero-subtitle {
+      font-size: 1.125rem;
+      color: var(--muted-foreground);
+      margin-bottom: 2rem;
+      max-width: 500px;
+    }
+    
+    .hero-image-wrapper {
+      position: relative;
+    }
+    
+    .hero-image-glow {
+      position: absolute;
+      inset: -1rem;
+      background: linear-gradient(135deg, rgba(90, 122, 90, 0.2), rgba(168, 197, 168, 0.3));
+      border-radius: 2rem;
+      filter: blur(40px);
+    }
+    
+    .hero-image {
+      position: relative;
+      border-radius: 2rem;
+      overflow: hidden;
+      box-shadow: 0 25px 50px rgba(45, 59, 45, 0.15);
+    }
+    
+    .hero-image img {
+      width: 100%;
+      aspect-ratio: 4/5;
+      object-fit: cover;
+    }
+    
+    /* What Is Section */
+    .what-is {
+      display: grid;
+      gap: 3rem;
+      align-items: center;
+    }
+    
+    @media (min-width: 1024px) {
+      .what-is {
+        grid-template-columns: 1fr 1fr;
+        gap: 5rem;
+      }
+    }
+    
+    .what-is-image {
+      position: relative;
+    }
+    
+    .what-is-image-glow {
+      position: absolute;
+      inset: -1rem;
+      background: linear-gradient(135deg, rgba(90, 122, 90, 0.1), rgba(168, 197, 168, 0.2));
+      border-radius: 1.5rem;
+      filter: blur(32px);
+    }
+    
+    .what-is-image img {
+      position: relative;
+      border-radius: 1.5rem;
+      width: 100%;
+      aspect-ratio: 4/3;
+      object-fit: cover;
+    }
+    
+    .info-box {
+      background: var(--background);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      border: 1px solid var(--border);
+      margin-top: 1.5rem;
+    }
+    
+    .info-box h3 {
+      font-size: 1.25rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .section-title {
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    @media (min-width: 768px) {
+      .section-title {
+        font-size: 2.5rem;
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .section-title {
+        font-size: 3rem;
+      }
+    }
+    
+    .section-intro {
+      font-size: 1.125rem;
+      color: var(--muted-foreground);
+      max-width: 48rem;
+      margin: 0 auto 3rem;
+    }
+    
+    /* Plant Types Grid */
+    .plant-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+    
+    @media (min-width: 640px) {
+      .plant-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .plant-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+      }
+    }
+    
+    .plant-card {
+      background: var(--background);
+      border-radius: 1.5rem;
+      padding: 1.5rem;
+      border: 1px solid var(--border);
+      transition: all 0.3s ease;
+    }
+    
+    .plant-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(90, 122, 90, 0.1);
+    }
+    
+    .plant-card-image {
+      border-radius: 0.75rem;
+      overflow: hidden;
+      margin-bottom: 1rem;
+    }
+    
+    .plant-card-image img {
+      width: 100%;
+      aspect-ratio: 3/4;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+    
+    .plant-card:hover .plant-card-image img {
+      transform: scale(1.05);
+    }
+    
+    .plant-card-subtitle {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--accent);
+      margin-bottom: 0.25rem;
+    }
+    
+    .plant-card-title {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .plant-card-desc {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+      line-height: 1.6;
+    }
+    
+    /* Care Guide */
+    .care-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+    
+    @media (min-width: 640px) {
+      .care-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .care-grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+    
+    .care-card {
+      background: var(--card);
+      border-radius: 1.5rem;
+      padding: 2rem;
+      border: 1px solid var(--border);
+      text-align: center;
+    }
+    
+    .care-icon {
+      width: 4rem;
+      height: 4rem;
+      border-radius: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1.25rem;
+      font-size: 1.75rem;
+    }
+    
+    .care-icon.light { background: #fef3c7; }
+    .care-icon.water { background: #dbeafe; }
+    .care-icon.soil { background: #fce7f3; }
+    .care-icon.humidity { background: #d1fae5; }
+    .care-icon.temp { background: #fee2e2; }
+    .care-icon.fertilizer { background: #e0e7ff; }
+    
+    .care-title {
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .care-value {
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+    
+    .care-desc {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+    }
+    
+    /* Problems Section */
+    .problems-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+    
+    @media (min-width: 640px) {
+      .problems-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    .problem-card {
+      background: var(--background);
+      border-radius: 1.5rem;
+      padding: 2rem;
+      border: 1px solid var(--border);
+    }
+    
+    .problem-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+    
+    .problem-icon {
+      font-size: 2rem;
+      flex-shrink: 0;
+    }
+    
+    .problem-title {
+      font-size: 1.25rem;
+      color: #dc2626;
+      margin-bottom: 0.25rem;
+    }
+    
+    .problem-cause {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+    }
+    
+    .solution-box {
+      background: #d1fae5;
+      border-radius: 0.75rem;
+      padding: 1rem;
+    }
+    
+    .solution-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #047857;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.5rem;
+    }
+    
+    .solution-text {
+      font-size: 0.875rem;
+      color: #065f46;
+    }
+    
+    /* Growth Section */
+    .growth-grid {
+      display: grid;
+      gap: 2rem;
+      align-items: center;
+    }
+    
+    @media (min-width: 1024px) {
+      .growth-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 5rem;
+      }
+    }
+    
+    .growth-image {
+      position: relative;
+    }
+    
+    .growth-image-glow {
+      position: absolute;
+      inset: -1rem;
+      background: linear-gradient(135deg, rgba(90, 122, 90, 0.1), rgba(168, 197, 168, 0.2));
+      border-radius: 1.5rem;
+      filter: blur(32px);
+    }
+    
+    .growth-image img {
+      position: relative;
+      border-radius: 1.5rem;
+      width: 100%;
+      aspect-ratio: 4/3;
+      object-fit: cover;
+    }
+    
+    .growth-content {
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+    
+    .growth-item {
+      background: var(--card);
+      border-radius: 1rem;
+      padding: 1.5rem;
+      border: 1px solid var(--border);
+    }
+    
+    .growth-item-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .growth-item-icon {
+      font-size: 1.5rem;
+    }
+    
+    .growth-item-title {
+      font-size: 1.125rem;
+    }
+    
+    .growth-item-desc {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+    }
+    
+    /* Styling Section */
+    .styling-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+    
+    @media (min-width: 640px) {
+      .styling-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    .styling-card {
+      position: relative;
+      border-radius: 1.5rem;
+      overflow: hidden;
+      aspect-ratio: 4/3;
+    }
+    
+    .styling-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+    
+    .styling-card:hover img {
+      transform: scale(1.05);
+    }
+    
+    .styling-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(45, 59, 45, 0.8), transparent);
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      padding: 1.5rem;
+    }
+    
+    .styling-title {
+      color: white;
+      font-size: 1.25rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    .styling-desc {
+      color: rgba(255, 255, 255, 0.8);
+      font-size: 0.875rem;
+    }
+    
+    /* Why Loved Section */
+    .reasons-grid {
+      display: grid;
+      gap: 1.5rem;
+    }
+    
+    @media (min-width: 640px) {
+      .reasons-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .reasons-grid {
+        grid-template-columns: repeat(4, 1fr);
+      }
+    }
+    
+    .reason-card {
+      background: var(--background);
+      border-radius: 1.5rem;
+      padding: 2rem;
+      border: 1px solid var(--border);
+      text-align: center;
+    }
+    
+    .reason-icon {
+      width: 4rem;
+      height: 4rem;
+      border-radius: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 1.25rem;
+      font-size: 1.75rem;
+    }
+    
+    .reason-icon.pet { background: #fef3c7; }
+    .reason-icon.air { background: #dbeafe; }
+    .reason-icon.light { background: #ede9fe; }
+    .reason-icon.emotional { background: #fce7f3; }
+    
+    .reason-title {
+      font-size: 1.25rem;
+      margin-bottom: 0.75rem;
+    }
+    
+    .reason-desc {
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+    }
+    
+    .quote-box {
+      background: var(--background);
+      border-radius: 1.5rem;
+      padding: 2rem 3rem;
+      border: 1px solid var(--border);
+      max-width: 48rem;
+      margin: 4rem auto 0;
+      text-align: center;
+    }
+    
+    .quote-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+    
+    .quote-text {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.5rem;
+      font-style: italic;
+      margin-bottom: 1rem;
+    }
+    
+    @media (min-width: 768px) {
+      .quote-text {
+        font-size: 1.875rem;
+      }
+    }
+    
+    .quote-author {
+      color: var(--muted-foreground);
+    }
+    
+    /* Cheat Sheet */
+    .cheat-sheet {
+      background: var(--background);
+      border-radius: 1.5rem;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      max-width: 56rem;
+      margin: 0 auto;
+    }
+    
+    .cheat-sheet-header {
+      background: linear-gradient(135deg, var(--primary), var(--forest));
+      color: white;
+      padding: 1.5rem 2rem;
+      text-align: center;
+    }
+    
+    .cheat-sheet-header h3 {
+      font-size: 1.5rem;
+      margin-bottom: 0.25rem;
+    }
+    
+    .cheat-sheet-header p {
+      opacity: 0.9;
+      font-size: 0.875rem;
+    }
+    
+    .cheat-sheet-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    .cheat-sheet-table th,
+    .cheat-sheet-table td {
+      padding: 1rem 1.5rem;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+    }
+    
+    .cheat-sheet-table th {
+      background: var(--card);
+      font-weight: 600;
+      font-size: 0.875rem;
+      color: var(--muted-foreground);
+    }
+    
+    .cheat-sheet-table td {
+      font-size: 0.9375rem;
+    }
+    
+    .cheat-sheet-table tr:last-child td {
+      border-bottom: none;
+    }
+    
+    .cheat-sheet-table .aspect {
+      font-weight: 500;
+    }
+    
+    .cheat-sheet-table .recommendation {
+      color: var(--primary);
+      font-weight: 500;
+    }
+    
+    /* Footer */
+    .footer {
+      background: var(--foreground);
+      color: var(--background);
+      padding: 4rem 1.5rem 2rem;
+    }
+    
+    .footer-content {
+      max-width: 1280px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+    .footer-icon {
+      font-size: 3rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .footer-title {
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    @media (min-width: 768px) {
+      .footer-title {
+        font-size: 2rem;
+      }
+    }
+    
+    .footer-desc {
+      max-width: 32rem;
+      margin: 0 auto 2rem;
+      opacity: 0.8;
+    }
+    
+    .footer-quote {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-size: 1.25rem;
+      opacity: 0.9;
+      margin-bottom: 2rem;
+    }
+    
+    .footer-bottom {
+      border-top: 1px solid rgba(250, 248, 245, 0.2);
+      padding-top: 2rem;
+      margin-top: 2rem;
+    }
+    
+    .footer-brand {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+    }
+    
+    .footer-copyright {
+      font-size: 0.875rem;
+      opacity: 0.6;
+    }
+    
+    /* Mobile Menu */
+    .mobile-menu-btn {
+      display: block;
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      padding: 0.5rem;
+    }
+    
+    @media (min-width: 1024px) {
+      .mobile-menu-btn {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="#" class="nav-logo">🌿 Prayer Plants</a>
+      <ul class="nav-links">
+        <li><a href="#what-is">What Is It?</a></li>
+        <li><a href="#types">Types</a></li>
+        <li><a href="#care">Care Guide</a></li>
+        <li><a href="#problems">Problems</a></li>
+        <li><a href="#growth">Growth</a></li>
+        <li><a href="#styling">Styling</a></li>
+        <li><a href="#why-loved">Why Loved</a></li>
+      </ul>
+      <button class="mobile-menu-btn">☰</button>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero section-padding">
+    <div class="hero-bg"></div>
+    <div class="container">
+      <div class="hero-content">
+        <div>
+          <span class="badge">🌿 The Complete Guide</span>
+          <h1 class="hero-title">Prayer Plants: The Living Art That Moves With the Sun</h1>
+          <p class="hero-subtitle">
+            Discover the enchanting world of Maranta — the mesmerizing houseplant that folds its leaves 
+            in prayer each evening. Your complete guide to growing, caring, and falling in love with these botanical wonders.
+          </p>
+          <a href="#care" class="btn btn-primary">Explore Prayer Plant Care →</a>
+        </div>
+        <div class="hero-image-wrapper">
+          <div class="hero-image-glow"></div>
+          <div class="hero-image">
+            <!-- Replace src with your uploaded image URL -->
+            <img src="images/hero-prayer-plant.jpg" alt="Beautiful prayer plant with vibrant patterned leaves">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- What Is Section -->
+  <section id="what-is" class="section-padding bg-card">
+    <div class="container">
+      <div class="what-is">
+        <div class="what-is-image">
+          <div class="what-is-image-glow"></div>
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/prayer-movement.jpg" alt="Prayer plant leaves folding upward during evening">
+        </div>
+        <div>
+          <span class="badge">🌱 Origins & Wonder</span>
+          <h2 class="section-title">What Is a Prayer Plant?</h2>
+          <p style="font-size: 1.125rem; color: var(--muted-foreground); margin-bottom: 1.5rem;">
+            The Prayer Plant (<em>Maranta leuconeura</em>) is a stunning tropical houseplant 
+            native to the rainforests of Brazil. It's a member of the Marantaceae family, 
+            beloved by plant enthusiasts worldwide for its spectacular foliage and 
+            mesmerizing behavior.
+          </p>
+          
+          <div class="info-box">
+            <h3>✨ Why "Prayer Plant"?</h3>
+            <p style="color: var(--muted-foreground);">
+              These magical plants earned their name from their unique daily ritual. 
+              As evening approaches, the leaves fold upward, resembling hands pressed 
+              together in prayer. By morning, they gracefully unfurl again to catch the light.
+            </p>
+          </div>
+          
+          <div class="info-box">
+            <h3>🔬 The Science Behind the Movement</h3>
+            <p style="color: var(--muted-foreground);">
+              This phenomenon is called <strong>nyctinasty</strong> — a circadian rhythm-driven 
+              movement controlled by changes in water pressure within the leaf cells. The pulvinus, 
+              a specialized joint at the base of each leaf, controls this beautiful dance.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Plant Types Section -->
+  <section id="types" class="section-padding">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">🎨 Varieties to Love</span>
+        <h2 class="section-title">Popular Types of Prayer Plants</h2>
+        <p class="section-intro">
+          Each variety offers its own unique pattern and personality. 
+          Discover which prayer plant speaks to your heart.
+        </p>
+      </div>
+      
+      <div class="plant-grid">
+        <div class="plant-card">
+          <div class="plant-card-image">
+            <!-- Replace src with your uploaded image URL -->
+            <img src="images/hero-prayer-plant.jpg" alt="Maranta Leuconeura">
+          </div>
+          <p class="plant-card-subtitle">The Classic</p>
+          <h3 class="plant-card-title">Maranta Leuconeura</h3>
+          <p class="plant-card-desc">The original prayer plant featuring oval leaves with distinctive dark green patterns and lighter green edges. A timeless favorite.</p>
+        </div>
+        
+        <div class="plant-card">
+          <div class="plant-card-image">
+            <!-- Replace src with your uploaded image URL -->
+            <img src="images/red-prayer-plant.jpg" alt="Red Prayer Plant">
+          </div>
+          <p class="plant-card-subtitle">Erythroneura</p>
+          <h3 class="plant-card-title">Red Prayer Plant</h3>
+          <p class="plant-card-desc">Stunning red veins paint vibrant lines across deep green leaves. Perhaps the most popular and visually striking variety.</p>
+        </div>
+        
+        <div class="plant-card">
+          <div class="plant-card-image">
+            <!-- Replace src with your uploaded image URL -->
+            <img src="images/green-prayer-plant.jpg" alt="Green Prayer Plant">
+          </div>
+          <p class="plant-card-subtitle">Kerchoveana</p>
+          <h3 class="plant-card-title">Green Prayer Plant</h3>
+          <p class="plant-card-desc">Elegant emerald leaves with lighter herringbone patterns. Known for its subtle beauty and easy-going nature.</p>
+        </div>
+        
+        <div class="plant-card">
+          <div class="plant-card-image">
+            <!-- Replace src with your uploaded image URL -->
+            <img src="images/lemon-lime-prayer-plant.jpg" alt="Lemon Lime Prayer Plant">
+          </div>
+          <p class="plant-card-subtitle">Marisela</p>
+          <h3 class="plant-card-title">Lemon Lime</h3>
+          <p class="plant-card-desc">Bright yellow-green stripes on lime-colored leaves create a refreshing, tropical vibe that brightens any space.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Care Guide Section -->
+  <section id="care" class="section-padding bg-card">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">💚 Essential Care</span>
+        <h2 class="section-title">Prayer Plant Care Guide</h2>
+        <p class="section-intro">
+          Master the art of prayer plant care with these essential tips. 
+          Happy plants mean more beautiful leaves!
+        </p>
+      </div>
+      
+      <div class="care-grid">
+        <div class="care-card">
+          <div class="care-icon light">☀️</div>
+          <h3 class="care-title">Light</h3>
+          <p class="care-value">Bright, Indirect Light</p>
+          <p class="care-desc">Avoid direct sunlight which can fade the beautiful leaf patterns. North or east-facing windows are ideal.</p>
+        </div>
+        
+        <div class="care-card">
+          <div class="care-icon water">💧</div>
+          <h3 class="care-title">Water</h3>
+          <p class="care-value">Keep Consistently Moist</p>
+          <p class="care-desc">Water when the top inch of soil feels dry. Use filtered or distilled water to prevent brown leaf tips.</p>
+        </div>
+        
+        <div class="care-card">
+          <div class="care-icon soil">🌱</div>
+          <h3 class="care-title">Soil</h3>
+          <p class="care-value">Well-Draining Mix</p>
+          <p class="care-desc">Use a peat-based potting mix with perlite. Good drainage prevents root rot while retaining moisture.</p>
+        </div>
+        
+        <div class="care-card">
+          <div class="care-icon humidity">💨</div>
+          <h3 class="care-title">Humidity</h3>
+          <p class="care-value">50-60% Humidity</p>
+          <p class="care-desc">These tropical beauties love humidity. Use a humidifier, pebble tray, or group with other plants.</p>
+        </div>
+        
+        <div class="care-card">
+          <div class="care-icon temp">🌡️</div>
+          <h3 class="care-title">Temperature</h3>
+          <p class="care-value">65-80°F (18-27°C)</p>
+          <p class="care-desc">Keep away from cold drafts and heating vents. Consistent warmth keeps leaves happy and moving.</p>
+        </div>
+        
+        <div class="care-card">
+          <div class="care-icon fertilizer">✨</div>
+          <h3 class="care-title">Fertilizer</h3>
+          <p class="care-value">Monthly in Growing Season</p>
+          <p class="care-desc">Feed with diluted balanced fertilizer spring through fall. Skip feeding in winter dormancy.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Problems Section -->
+  <section id="problems" class="section-padding">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">🔍 Troubleshooting</span>
+        <h2 class="section-title">Common Problems & Solutions</h2>
+        <p class="section-intro">
+          Every plant parent faces challenges. Here's how to diagnose and fix 
+          the most common prayer plant issues.
+        </p>
+      </div>
+      
+      <div class="problems-grid">
+        <div class="problem-card">
+          <div class="problem-header">
+            <span class="problem-icon">🍃</span>
+            <div>
+              <h3 class="problem-title">Curling Leaves</h3>
+              <p class="problem-cause">Usually caused by underwatering or low humidity</p>
+            </div>
+          </div>
+          <div class="solution-box">
+            <p class="solution-label">✓ Solution</p>
+            <p class="solution-text">Check soil moisture and increase humidity. Consider a pebble tray or humidifier near your plant.</p>
+          </div>
+        </div>
+        
+        <div class="problem-card">
+          <div class="problem-header">
+            <span class="problem-icon">🟤</span>
+            <div>
+              <h3 class="problem-title">Brown Leaf Tips</h3>
+              <p class="problem-cause">Often from tap water chemicals or dry air</p>
+            </div>
+          </div>
+          <div class="solution-box">
+            <p class="solution-label">✓ Solution</p>
+            <p class="solution-text">Switch to filtered or distilled water. Trim brown tips and boost humidity around the plant.</p>
+          </div>
+        </div>
+        
+        <div class="problem-card">
+          <div class="problem-header">
+            <span class="problem-icon">💛</span>
+            <div>
+              <h3 class="problem-title">Yellow Leaves</h3>
+              <p class="problem-cause">Overwatering, poor drainage, or nutrient deficiency</p>
+            </div>
+          </div>
+          <div class="solution-box">
+            <p class="solution-label">✓ Solution</p>
+            <p class="solution-text">Let soil dry slightly between waterings. Ensure pot has drainage and fertilize during growing season.</p>
+          </div>
+        </div>
+        
+        <div class="problem-card">
+          <div class="problem-header">
+            <span class="problem-icon">🐛</span>
+            <div>
+              <h3 class="problem-title">Pest Problems</h3>
+              <p class="problem-cause">Spider mites, mealybugs, or aphids</p>
+            </div>
+          </div>
+          <div class="solution-box">
+            <p class="solution-label">✓ Solution</p>
+            <p class="solution-text">Inspect regularly. Treat with neem oil or insecticidal soap. Isolate affected plants immediately.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Growth Section -->
+  <section id="growth" class="section-padding bg-card">
+    <div class="container">
+      <div class="growth-grid">
+        <div class="growth-image">
+          <div class="growth-image-glow"></div>
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/repotting.jpg" alt="Repotting a prayer plant">
+        </div>
+        <div>
+          <span class="badge">📈 Growing Strong</span>
+          <h2 class="section-title">Growth, Repotting & Propagation</h2>
+          <p style="font-size: 1.125rem; color: var(--muted-foreground); margin-bottom: 1.5rem;">
+            Watch your prayer plant thrive with proper care. Here's everything you need 
+            to know about helping your plant grow, when to repot, and how to create new plants.
+          </p>
+          
+          <div class="growth-content">
+            <div class="growth-item">
+              <div class="growth-item-header">
+                <span class="growth-item-icon">🌱</span>
+                <h3 class="growth-item-title">Growth Rate</h3>
+              </div>
+              <p class="growth-item-desc">Prayer plants are moderate growers, adding 6-12 inches per year under ideal conditions. Growth slows in winter — this is normal!</p>
+            </div>
+            
+            <div class="growth-item">
+              <div class="growth-item-header">
+                <span class="growth-item-icon">🪴</span>
+                <h3 class="growth-item-title">When to Repot</h3>
+              </div>
+              <p class="growth-item-desc">Repot every 1-2 years or when roots peek from drainage holes. Spring is ideal. Choose a pot only 1-2 inches larger.</p>
+            </div>
+            
+            <div class="growth-item">
+              <div class="growth-item-header">
+                <span class="growth-item-icon">✂️</span>
+                <h3 class="growth-item-title">Propagation</h3>
+              </div>
+              <p class="growth-item-desc">Divide during repotting or take stem cuttings with nodes. Root in water or moist soil. New growth appears in 2-4 weeks!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Styling Section -->
+  <section id="styling" class="section-padding">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">✨ Design Inspiration</span>
+        <h2 class="section-title">Styling & Display Ideas</h2>
+        <p class="section-intro">
+          Prayer plants aren't just plants — they're living décor. Here's how to 
+          showcase their beauty in your home.
+        </p>
+      </div>
+      
+      <div class="styling-grid">
+        <div class="styling-card">
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/styling-living-room.jpg" alt="Prayer plant in living room">
+          <div class="styling-overlay">
+            <h3 class="styling-title">Living Room Statement</h3>
+            <p class="styling-desc">Create a focal point on a side table or plant stand</p>
+          </div>
+        </div>
+        
+        <div class="styling-card">
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/styling-bedroom.jpg" alt="Prayer plant in bedroom">
+          <div class="styling-overlay">
+            <h3 class="styling-title">Bedroom Serenity</h3>
+            <p class="styling-desc">Watch the evening prayer ritual from your bedside</p>
+          </div>
+        </div>
+        
+        <div class="styling-card">
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/styling-living-room.jpg" alt="Hanging prayer plant">
+          <div class="styling-overlay">
+            <h3 class="styling-title">Hanging Displays</h3>
+            <p class="styling-desc">Let trailing varieties cascade from hanging planters</p>
+          </div>
+        </div>
+        
+        <div class="styling-card">
+          <!-- Replace src with your uploaded image URL -->
+          <img src="images/styling-bedroom.jpg" alt="Boho style with prayer plant">
+          <div class="styling-overlay">
+            <h3 class="styling-title">Boho & Minimalist</h3>
+            <p class="styling-desc">Perfect for natural, earthy interior aesthetics</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Loved Section -->
+  <section id="why-loved" class="section-padding bg-card">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">💚 Beyond Beauty</span>
+        <h2 class="section-title">Why Prayer Plants Are Loved</h2>
+        <p class="section-intro">
+          More than just pretty leaves — prayer plants bring practical benefits 
+          and emotional joy to your home.
+        </p>
+      </div>
+      
+      <div class="reasons-grid">
+        <div class="reason-card">
+          <div class="reason-icon pet">🐾</div>
+          <h3 class="reason-title">Pet-Friendly</h3>
+          <p class="reason-desc">Completely non-toxic to cats and dogs, making them a safe choice for homes with furry friends who love to nibble on leaves.</p>
+        </div>
+        
+        <div class="reason-card">
+          <div class="reason-icon air">💨</div>
+          <h3 class="reason-title">Air-Purifying</h3>
+          <p class="reason-desc">Like many houseplants, prayer plants help filter indoor air, removing toxins while adding humidity to your living space.</p>
+        </div>
+        
+        <div class="reason-card">
+          <div class="reason-icon light">✨</div>
+          <h3 class="reason-title">Low-Light Tolerant</h3>
+          <p class="reason-desc">Perfect for those tricky spots where other plants struggle. Prayer plants adapt well to lower light conditions.</p>
+        </div>
+        
+        <div class="reason-card">
+          <div class="reason-icon emotional">❤️</div>
+          <h3 class="reason-title">Emotional Appeal</h3>
+          <p class="reason-desc">There's something deeply calming about watching leaves move. Many find prayer plants meditative and mood-boosting.</p>
+        </div>
+      </div>
+      
+      <div class="quote-box">
+        <span class="quote-icon">🌿</span>
+        <p class="quote-text">"Watching my prayer plant fold its leaves each evening feels like a daily gift — a gentle reminder that nature is always creating beauty."</p>
+        <p class="quote-author">— A fellow plant lover</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cheat Sheet Section -->
+  <section class="section-padding">
+    <div class="container">
+      <div class="text-center">
+        <span class="badge">📋 Quick Reference</span>
+        <h2 class="section-title">Care Cheat Sheet</h2>
+        <p class="section-intro">
+          Keep this handy guide for quick reference. Perfect for beginners 
+          and experienced plant parents alike!
+        </p>
+      </div>
+      
+      <div class="cheat-sheet">
+        <div class="cheat-sheet-header">
+          <h3>🌿 Prayer Plant Quick Care</h3>
+          <p>Your at-a-glance guide to happy Maranta</p>
+        </div>
+        <table class="cheat-sheet-table">
+          <thead>
+            <tr>
+              <th>Aspect</th>
+              <th>Recommendation</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="aspect">☀️ Light</td>
+              <td class="recommendation">Bright, indirect</td>
+              <td>Avoid direct sun</td>
+            </tr>
+            <tr>
+              <td class="aspect">💧 Water</td>
+              <td class="recommendation">When top inch dry</td>
+              <td>Use filtered water</td>
+            </tr>
+            <tr>
+              <td class="aspect">💨 Humidity</td>
+              <td class="recommendation">50-60%</td>
+              <td>Mist or use humidifier</td>
+            </tr>
+            <tr>
+              <td class="aspect">🌡️ Temperature</td>
+              <td class="recommendation">65-80°F</td>
+              <td>Avoid cold drafts</td>
+            </tr>
+            <tr>
+              <td class="aspect">🌱 Soil</td>
+              <td class="recommendation">Well-draining mix</td>
+              <td>Peat + perlite</td>
+            </tr>
+            <tr>
+              <td class="aspect">✨ Fertilizer</td>
+              <td class="recommendation">Monthly (spring-fall)</td>
+              <td>Diluted balanced feed</td>
+            </tr>
+            <tr>
+              <td class="aspect">🪴 Repotting</td>
+              <td class="recommendation">Every 1-2 years</td>
+              <td>Spring is best</td>
+            </tr>
+            <tr>
+              <td class="aspect">🐾 Pet Safe</td>
+              <td class="recommendation">Yes! Non-toxic</td>
+              <td>Safe for cats & dogs</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <span class="footer-icon">🌿</span>
+      <h3 class="footer-title">Happy Growing, Plant Lover!</h3>
+      <p class="footer-desc">
+        Thank you for visiting our prayer plant guide. May your Maranta thrive 
+        and bring you daily joy with its beautiful, moving leaves.
+      </p>
+      <p class="footer-quote">"In every walk with nature, one receives far more than he seeks." — John Muir</p>
+      
+      <div class="footer-bottom">
+        <p class="footer-brand">🌿 Prayer Plants Guide</p>
+        <p class="footer-copyright">© 2024 Made with 💚 for plant lovers everywhere</p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
