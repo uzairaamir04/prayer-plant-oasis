@@ -2,87 +2,126 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
-*/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
+/* Prayer Plants - Nature-Inspired Design System */
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Cream/Off-white backgrounds */
+    --background: 45 30% 97%;
+    --foreground: 150 20% 15%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    /* Soft cream cards */
+    --card: 45 40% 95%;
+    --card-foreground: 150 20% 15%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 45 40% 95%;
+    --popover-foreground: 150 20% 15%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    /* Sage green primary */
+    --primary: 145 35% 35%;
+    --primary-foreground: 45 30% 97%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    /* Light sage secondary */
+    --secondary: 145 25% 88%;
+    --secondary-foreground: 150 20% 20%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    /* Muted sage */
+    --muted: 145 15% 92%;
+    --muted-foreground: 150 10% 45%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    /* Terracotta accent */
+    --accent: 25 60% 55%;
+    --accent-foreground: 45 30% 97%;
+
+    /* Forest green for emphasis */
+    --forest: 150 40% 22%;
+    --forest-foreground: 45 30% 97%;
+
+    /* Warm earth tones */
+    --earth: 30 25% 40%;
+    --earth-foreground: 45 30% 97%;
+
+    /* Soft mint highlight */
+    --mint: 155 40% 75%;
+    --mint-foreground: 150 20% 15%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 145 20% 85%;
+    --input: 145 20% 85%;
+    --ring: 145 35% 35%;
 
-    --radius: 0.5rem;
+    --radius: 1rem;
+
+    /* Custom gradients */
+    --gradient-hero: linear-gradient(180deg, hsl(145 30% 95%) 0%, hsl(45 30% 97%) 100%);
+    --gradient-card: linear-gradient(135deg, hsl(45 40% 98%) 0%, hsl(145 20% 95%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(145 35% 35%) 0%, hsl(150 40% 28%) 100%);
+
+    /* Shadows */
+    --shadow-soft: 0 4px 20px -4px hsl(150 20% 15% / 0.08);
+    --shadow-card: 0 8px 30px -8px hsl(150 20% 15% / 0.12);
+    --shadow-elevated: 0 20px 50px -15px hsl(150 20% 15% / 0.15);
 
     --sidebar-background: 0 0% 98%;
-
     --sidebar-foreground: 240 5.3% 26.1%;
-
     --sidebar-primary: 240 5.9% 10%;
-
     --sidebar-primary-foreground: 0 0% 98%;
-
     --sidebar-accent: 240 4.8% 95.9%;
-
     --sidebar-accent-foreground: 240 5.9% 10%;
-
     --sidebar-border: 220 13% 91%;
-
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
+    --background: 150 20% 8%;
+    --foreground: 45 30% 95%;
 
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
+    --card: 150 18% 12%;
+    --card-foreground: 45 30% 95%;
 
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 150 18% 12%;
+    --popover-foreground: 45 30% 95%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 145 40% 50%;
+    --primary-foreground: 150 20% 8%;
 
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 150 15% 20%;
+    --secondary-foreground: 45 30% 95%;
 
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
+    --muted: 150 15% 18%;
+    --muted-foreground: 145 10% 60%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 25 55% 50%;
+    --accent-foreground: 45 30% 97%;
+
+    --forest: 150 35% 40%;
+    --forest-foreground: 150 20% 8%;
+
+    --earth: 30 20% 55%;
+    --earth-foreground: 150 20% 8%;
+
+    --mint: 155 30% 35%;
+    --mint-foreground: 45 30% 95%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
+    --border: 150 15% 20%;
+    --input: 150 15% 20%;
+    --ring: 145 40% 50%;
+
+    --gradient-hero: linear-gradient(180deg, hsl(150 20% 10%) 0%, hsl(150 20% 8%) 100%);
+    --gradient-card: linear-gradient(135deg, hsl(150 18% 14%) 0%, hsl(150 15% 12%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(145 40% 45%) 0%, hsl(150 35% 35%) 100%);
+
+    --shadow-soft: 0 4px 20px -4px hsl(0 0% 0% / 0.3);
+    --shadow-card: 0 8px 30px -8px hsl(0 0% 0% / 0.4);
+    --shadow-elevated: 0 20px 50px -15px hsl(0 0% 0% / 0.5);
+
     --sidebar-background: 240 5.9% 10%;
     --sidebar-foreground: 240 4.8% 95.9%;
     --sidebar-primary: 224.3 76.3% 48%;
@@ -100,6 +139,59 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Inter', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif;
+  }
+}
+
+@layer components {
+  .section-padding {
+    @apply px-4 sm:px-6 lg:px-8 py-16 sm:py-20 lg:py-24;
+  }
+
+  .container-width {
+    @apply max-w-7xl mx-auto;
+  }
+
+  .botanical-card {
+    @apply rounded-2xl bg-card p-6 transition-all duration-500;
+    box-shadow: var(--shadow-card);
+  }
+
+  .botanical-card:hover {
+    box-shadow: var(--shadow-elevated);
+    transform: translateY(-4px);
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-accent);
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-4 rounded-full font-medium transition-all duration-300;
+    background: var(--gradient-accent);
+    color: hsl(var(--primary-foreground));
+    box-shadow: var(--shadow-soft);
+  }
+
+  .btn-primary:hover {
+    box-shadow: var(--shadow-card);
+    transform: translateY(-2px);
+  }
+
+  .image-botanical {
+    @apply rounded-2xl overflow-hidden;
+    box-shadow: var(--shadow-card);
+  }
+}
+
+@layer utilities {
+  .scroll-smooth {
+    scroll-behavior: smooth;
   }
 }

@@ -1,12 +1,31 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import Navigation from "@/components/Navigation";
+import HeroSection from "@/components/HeroSection";
+import WhatIsSection from "@/components/WhatIsSection";
+import PlantTypesSection from "@/components/PlantTypesSection";
+import CareGuideSection from "@/components/CareGuideSection";
+import ProblemsSection from "@/components/ProblemsSection";
+import GrowthSection from "@/components/GrowthSection";
+import StylingSection from "@/components/StylingSection";
+import WhyLovedSection from "@/components/WhyLovedSection";
+import CheatSheetSection from "@/components/CheatSheetSection";
+import FooterSection from "@/components/FooterSection";
 
 const Index = () => {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div className="scroll-smooth">
+      <Navigation />
+      <main>
+        <HeroSection />
+        <WhatIsSection />
+        <PlantTypesSection />
+        <CareGuideSection />
+        <ProblemsSection />
+        <GrowthSection />
+        <StylingSection />
+        <WhyLovedSection />
+        <CheatSheetSection />
+      </main>
+      <FooterSection />
     </div>
   );
 };
