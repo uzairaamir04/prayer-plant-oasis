@@ -55,7 +55,7 @@ const Navigation = () => {
                 <Leaf className="w-5 h-5 text-primary-foreground" />
               </div>
               <span className="font-serif text-xl font-semibold hidden sm:block">
-                Prayer Plants
+                Prayer Plant Care
               </span>
             </a>
 
