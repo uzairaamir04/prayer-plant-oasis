@@ -66,7 +66,7 @@ const FooterSection = () => {
               Made with 💚 for plant lovers everywhere
             </p>
             <p className="text-mint/40 text-xs mt-2">
-              © {new Date().getFullYear()} Prayer Plants Guide. All rights reserved.
+              © {new Date().getFullYear()} Prayer Plant Care. All rights reserved.
             </p>
           </div>
         </div>
