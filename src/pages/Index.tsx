@@ -8,6 +8,7 @@ import GrowthSection from "@/components/GrowthSection";
 import StylingSection from "@/components/StylingSection";
 import WhyLovedSection from "@/components/WhyLovedSection";
 import CheatSheetSection from "@/components/CheatSheetSection";
+import FAQSection from "@/components/FAQSection";
 import FooterSection from "@/components/FooterSection";
 
 const Index = () => {
@@ -24,6 +25,7 @@ const Index = () => {
         <StylingSection />
         <WhyLovedSection />
         <CheatSheetSection />
+        <FAQSection />
       </main>
       <FooterSection />
     </div>
