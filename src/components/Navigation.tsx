@@ -70,6 +70,12 @@ const Navigation = () => {
                   {item.label}
                 </button>
               ))}
+              <a
+                href="/blog"
+                className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+              >
+                Blog
+              </a>
               <button
                 onClick={() => scrollToSection("#cheat-sheet")}
                 className="px-5 py-2.5 bg-primary text-primary-foreground rounded-full text-sm font-medium hover:bg-primary/90 transition-colors"
@@ -110,6 +116,12 @@ const Navigation = () => {
                     {item.label}
                   </button>
                 ))}
+                <a
+                  href="/blog"
+                  className="text-left text-lg font-medium text-foreground py-2"
+                >
+                  Blog
+                </a>
                 <button
                   onClick={() => scrollToSection("#cheat-sheet")}
                   className="mt-2 px-5 py-3 bg-primary text-primary-foreground rounded-full text-base font-medium"
