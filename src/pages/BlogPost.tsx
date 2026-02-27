@@ -2,6 +2,7 @@ import { useParams, Link, Navigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { getPostBySlug, blogPosts } from "@/data/blog-posts";
 import { Calendar, Clock, ArrowLeft, Leaf } from "lucide-react";
+import FooterSection from "@/components/FooterSection";
 import {
   Accordion,
   AccordionContent,
@@ -412,6 +413,8 @@ const BlogPost = () => {
             </motion.div>
           </div>
         </article>
+
+        <FooterSection />
       </div>
     </>
   );

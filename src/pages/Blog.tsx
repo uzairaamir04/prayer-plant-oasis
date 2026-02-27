@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import { blogPosts } from "@/data/blog-posts";
 import { Calendar, Clock, ArrowRight, Leaf } from "lucide-react";
 import { Helmet } from "react-helmet-async";
+import FooterSection from "@/components/FooterSection";
 
 const Blog = () => {
   return (
@@ -118,6 +119,8 @@ const Blog = () => {
             </div>
           </div>
         </section>
+
+        <FooterSection />
       </div>
     </>
   );
