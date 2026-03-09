@@ -60,6 +60,25 @@ const FooterSection = () => {
             ))}
           </motion.div>
 
+          {/* Trust Links */}
+          <div className="flex flex-wrap justify-center gap-4 mb-8">
+            {[
+              { label: "About Us", href: "/about" },
+              { label: "Contact Us", href: "/contact" },
+              { label: "Privacy Policy", href: "/privacy-policy" },
+              { label: "Disclaimer", href: "/disclaimer" },
+              { label: "Terms & Conditions", href: "/terms" },
+            ].map((link) => (
+              <a
+                key={link.href}
+                href={link.href}
+                className="text-mint/70 hover:text-mint text-sm transition-colors"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
+
           {/* Copyright */}
           <div className="pt-8 border-t border-mint/20">
             <p className="text-mint/60 text-sm">
