@@ -653,6 +653,503 @@ When purchasing, look for plants with:
       },
     ],
   },
+  {
+    slug: "how-to-prune-prayer-plant",
+    title: "How to Prune a Prayer Plant: Complete Step-by-Step Guide",
+    metaTitle: "How to Prune a Prayer Plant | Step-by-Step Guide 2026",
+    metaDescription: "Learn how to prune your prayer plant for fuller, healthier growth. Step-by-step pruning guide with timing tips, tools needed, and expert advice.",
+    excerpt: "Master the art of pruning your prayer plant to encourage bushier growth, remove damaged foliage, and keep your Maranta looking its best.",
+    publishDate: "2026-03-10",
+    readTime: "9 min read",
+    heroImage: "/images/green-prayer-plant.jpg",
+    content: `
+## Why Prune Your Prayer Plant?
+
+Pruning is one of the most effective ways to keep your prayer plant (*Maranta leuconeura*) healthy, compact, and visually stunning. While prayer plants are naturally low-growing and spreading, regular pruning encourages **bushier, fuller growth** and prevents the leggy, sparse look that can develop over time.
+
+Beyond aesthetics, pruning serves several practical purposes:
+
+- **Removes dead or damaged leaves** that can harbor pests and disease
+- **Redirects energy** toward new, healthy growth
+- **Controls size and shape** for your specific space
+- **Encourages branching** at the cut point, resulting in a denser plant
+
+If you're new to prayer plants, check out our [complete guide to what prayer plants are](/blog/what-is-a-prayer-plant) before diving into pruning techniques.
+
+## When to Prune a Prayer Plant
+
+Timing matters when it comes to pruning. The **best time to prune** is during the active growing season — **spring and early summer** (March through July). During this period, your prayer plant has the energy and resources to recover quickly and push out new growth from the cut points.
+
+### Seasonal Pruning Schedule
+
+| Season | Pruning Type | Recommended? |
+|--------|-------------|--------------|
+| Spring (Mar–May) | Major shaping & size reduction | Yes — ideal time |
+| Summer (Jun–Aug) | Light trimming & maintenance | Yes |
+| Autumn (Sep–Nov) | Remove dead leaves only | Minimal pruning |
+| Winter (Dec–Feb) | Emergency removal only | Avoid if possible |
+
+Avoid heavy pruning in autumn and winter when growth slows dramatically. The plant won't recover as quickly, and open wounds are more susceptible to infection during the dormant period.
+
+## Tools You'll Need
+
+Before you start pruning, gather these essential tools:
+
+1. **Sharp, clean scissors or pruning shears** — Dull blades crush stems and invite disease
+2. **Rubbing alcohol or hydrogen peroxide** — For sterilizing your cutting tools
+3. **A clean cloth or paper towel** — To wipe blades between cuts
+4. **A small container with water** — If you plan to [propagate your cuttings](/blog/how-to-propagate-prayer-plant)
+
+**Pro tip**: Always sterilize your tools before and between cuts. This simple step prevents the spread of bacterial and fungal infections.
+
+## Step-by-Step Pruning Guide
+
+### Step 1: Assess Your Plant
+
+Before making any cuts, take a good look at your prayer plant. Identify:
+
+- **Yellow or brown leaves** — These should be removed first. If you're seeing a lot of yellowing, read our guide on [why prayer plants turn yellow](/blog/why-is-my-prayer-plant-turning-yellow) to address the root cause.
+- **Leggy stems** — Long stems with few leaves indicate the plant needs more light. Consider adjusting [light conditions](/blog/how-much-sun-does-a-prayer-plant-need) alongside pruning.
+- **Overcrowded areas** — Dense clusters where leaves overlap and block each other's light.
+- **Damaged or pest-affected foliage** — Remove these immediately to prevent spread.
+
+### Step 2: Remove Dead and Damaged Growth
+
+Start by removing the obvious candidates:
+
+- Cut yellow or brown leaves at the base of their stem, as close to the main plant as possible
+- Remove any leaves showing signs of pest damage or disease
+- Trim brown, crispy leaf edges with clean scissors, following the natural leaf shape
+
+### Step 3: Shape and Thin
+
+Once the damaged foliage is removed, focus on shaping:
+
+- **Cut leggy stems back to just above a leaf node** — This is where new branches will emerge
+- **Remove no more than 25% of the plant** in a single session to avoid shock
+- **Thin overcrowded areas** by selectively removing inner stems to improve air circulation
+- **Step back frequently** to assess the overall shape as you work
+
+### Step 4: Propagate Your Cuttings (Optional)
+
+Don't throw away those healthy cuttings! Prayer plant stem cuttings with at least one node can be rooted in water or moist soil. Our detailed [propagation guide](/blog/how-to-propagate-prayer-plant) walks you through the entire process.
+
+### Step 5: Aftercare
+
+After pruning, give your plant some extra TLC:
+
+- **Water lightly** — Keep the soil consistently moist but not soggy. Learn more about [proper watering techniques](/blog/how-much-water-does-a-prayer-plant-need).
+- **Avoid direct sunlight** for a few days while the plant recovers
+- **Hold off on fertilizing** for 2–3 weeks to prevent stressing fresh cuts
+- **Maintain humidity** above 50% to support healing
+
+## Common Pruning Mistakes to Avoid
+
+1. **Pruning too aggressively** — Never remove more than 25–30% of the plant at once. This causes severe stress and can stunt growth for months.
+2. **Using dirty tools** — Unsterilized scissors are the #1 cause of post-pruning infections.
+3. **Pruning in winter** — The plant lacks energy to recover during dormancy.
+4. **Cutting between nodes** — Always cut just above a node (the small bump on the stem where leaves emerge). Cutting between nodes leaves a dead stub that can rot.
+5. **Ignoring the root cause** — If you're pruning leggy growth, also address the underlying light issue.
+
+## How Often Should You Prune?
+
+For most prayer plants, a **light maintenance trim every 4–6 weeks** during the growing season is sufficient. This involves removing any yellowing leaves and trimming wayward stems.
+
+A **more thorough shaping session** once or twice per growing season (spring and mid-summer) will keep the plant compact and full. Prayer plants typically [grow to about 6–12 inches tall](/blog/how-big-does-a-prayer-plant-get), so they don't require aggressive size management like larger houseplants.
+
+## Pruning Different Prayer Plant Varieties
+
+Different varieties may require slightly different approaches:
+
+- **Green Prayer Plant (Maranta leuconeura var. erythroneura)** — The most common variety. Prunes well and responds with vigorous branching.
+- **Lemon Lime Prayer Plant** — Tends to grow more compactly. Light pruning is usually sufficient.
+- **Red Prayer Plant** — Can be slightly slower to recover. Be conservative with cuts and ensure optimal care conditions during recovery.
+`,
+    faqs: [
+      {
+        question: "Can you cut back a leggy prayer plant?",
+        answer: "Yes, you can cut back a leggy prayer plant. Trim the long, stretched stems back to just above a leaf node during spring or summer. The plant will branch from the cut point, producing a bushier, more compact shape. Also address the underlying cause — leggy growth usually indicates insufficient light."
+      },
+      {
+        question: "Where do you cut a prayer plant when pruning?",
+        answer: "Always cut just above a leaf node — the small bump or joint on the stem where leaves emerge. Use sharp, sterilized scissors and cut at a slight angle. Avoid cutting between nodes, as this leaves a dead stub that can rot and invite disease."
+      },
+      {
+        question: "How much of a prayer plant can you prune at once?",
+        answer: "Remove no more than 25–30% of the plant in a single pruning session. Removing too much foliage at once causes severe stress, stunts growth, and can weaken the plant's ability to photosynthesize. If major reshaping is needed, spread it across 2–3 sessions several weeks apart."
+      },
+      {
+        question: "Should I prune yellow leaves off my prayer plant?",
+        answer: "Yes, yellow leaves should be removed as they won't recover their green color. Cut them at the base of the stem, close to the main plant. However, also investigate why the leaves are yellowing — common causes include overwatering, too much direct sunlight, or nutrient deficiency."
+      },
+      {
+        question: "Can you propagate prayer plant pruning cuttings?",
+        answer: "Absolutely! Healthy stem cuttings with at least one node can be rooted in water or moist soil. Place the cutting in a jar of water, keep it in bright indirect light, and roots should appear within 2–4 weeks. Once roots are 2–3 inches long, transplant to soil."
+      },
+    ],
+  },
+  {
+    slug: "how-much-water-does-a-prayer-plant-need",
+    title: "How Much Water Does a Prayer Plant Need? Complete Watering Guide",
+    metaTitle: "How Much Water Does a Prayer Plant Need? | Watering Guide 2026",
+    metaDescription: "Discover exactly how much water your prayer plant needs, how often to water, best water types, and signs of overwatering and underwatering.",
+    excerpt: "Learn the perfect watering routine for your prayer plant, including frequency, water type, seasonal adjustments, and troubleshooting common watering problems.",
+    publishDate: "2026-03-10",
+    readTime: "10 min read",
+    heroImage: "/images/red-prayer-plant.jpg",
+    content: `
+## Understanding Prayer Plant Water Needs
+
+Prayer plants (*Maranta leuconeura*) are tropical plants that thrive in **consistently moist — but never waterlogged — soil**. Getting the watering balance right is perhaps the single most important aspect of prayer plant care, and it's where most new plant parents struggle.
+
+In their native Brazilian rainforest habitat, prayer plants grow on the forest floor where the soil stays evenly damp thanks to high humidity and regular rainfall. Understanding this origin helps us replicate the ideal conditions at home. For a broader overview of prayer plant care, see our [complete guide to prayer plants](/blog/what-is-a-prayer-plant).
+
+## How Often to Water a Prayer Plant
+
+There's no universal watering schedule because frequency depends on several factors. However, most prayer plants need watering **every 5–7 days during the growing season** (spring/summer) and **every 10–14 days in winter**.
+
+### The Finger Test Method
+
+The most reliable method is the **finger test**:
+
+1. Insert your finger about **1 inch** into the soil
+2. If the top inch feels **dry**, it's time to water
+3. If it still feels **moist**, wait another day or two
+4. If it feels **soggy**, you're overwatering — let it dry out more
+
+### Factors That Affect Watering Frequency
+
+| Factor | Waters More Often | Waters Less Often |
+|--------|-------------------|-------------------|
+| Season | Spring & Summer | Autumn & Winter |
+| Light | Bright indirect light | Low light conditions |
+| Pot material | Terracotta (porous) | Plastic or glazed ceramic |
+| Pot size | Small pots | Large pots |
+| Humidity | Low humidity (<40%) | High humidity (>60%) |
+| Temperature | Warm rooms (>75°F) | Cool rooms (<65°F) |
+
+If your prayer plant is in a bright spot with [optimal light conditions](/blog/how-much-sun-does-a-prayer-plant-need), it will use water faster and need more frequent watering.
+
+## How to Water a Prayer Plant Properly
+
+### The Thorough Soak Method
+
+The best technique is a **thorough soak**:
+
+1. Place your plant in a sink or tray
+2. Water slowly and evenly across the entire soil surface
+3. Continue until water drains freely from the bottom drainage holes
+4. Allow the pot to drain completely — **never let it sit in standing water**
+5. Return the plant to its saucer or decorative pot
+
+This method ensures the entire root system gets moisture, not just the top layer.
+
+### Bottom Watering
+
+An alternative approach is **bottom watering**:
+
+1. Fill a tray or basin with 2–3 inches of water
+2. Place the pot in the water (ensure it has drainage holes)
+3. Let the plant absorb water through the bottom for **20–30 minutes**
+4. Remove and let excess water drain
+
+Bottom watering encourages roots to grow downward and ensures even moisture distribution. It's especially useful if the soil has become hydrophobic (repels water) from drying out completely.
+
+## Best Water for Prayer Plants
+
+Prayer plants are **sensitive to chemicals** commonly found in tap water. Here's your best options ranked:
+
+1. **Filtered water** — The most practical option for most people
+2. **Rainwater** — Ideal if you can collect it
+3. **Distilled water** — Good but lacks beneficial minerals
+4. **Tap water left out overnight** — Allows chlorine to evaporate (doesn't remove chloramine or fluoride)
+
+**Avoid**: Softened water (high sodium content) and cold water straight from the tap. Always use **room temperature water** to avoid shocking the roots.
+
+### Signs of Water Quality Issues
+
+If you're using unfiltered tap water and notice **brown leaf tips** or **edges**, the minerals and chemicals may be the culprit. This is one of the most common reasons for leaf damage, alongside [other causes of yellowing](/blog/why-is-my-prayer-plant-turning-yellow).
+
+## Signs of Overwatering
+
+Overwatering is the **most common mistake** with prayer plants. Watch for:
+
+- **Yellow leaves** — Especially lower, older leaves turning uniformly yellow
+- **Mushy, soft stems** — Indicates root rot may have set in
+- **Soggy soil** that doesn't dry out within a week
+- **Fungus gnats** — These tiny flies thrive in constantly moist soil
+- **Moldy soil surface** — White or green fuzzy growth on the topsoil
+- **Wilting despite wet soil** — A paradoxical sign that roots are damaged and can't absorb water
+
+### How to Fix Overwatering
+
+1. **Stop watering immediately** and let the soil dry out
+2. **Check for root rot** — Gently remove the plant from its pot and inspect roots. Healthy roots are white/tan; rotted roots are brown/black and mushy
+3. **Trim rotted roots** with sterilized scissors. Follow our [pruning best practices](/blog/how-to-prune-prayer-plant) for tool sterilization.
+4. **Repot in fresh, well-draining soil** if root rot is present
+5. **Ensure proper drainage** — Your pot MUST have drainage holes
+
+## Signs of Underwatering
+
+While less common, underwatering also causes problems:
+
+- **Crispy, brown leaf edges** — The plant sacrifices leaf margins first
+- **Curling leaves** — Leaves curl inward to conserve moisture
+- **Drooping or wilting** — The plant lacks turgor pressure
+- **Dry, pulling-away soil** — Soil shrinks and separates from the pot edges
+- **Slow growth** — The plant conserves resources when water-stressed
+
+### How to Fix Underwatering
+
+1. **Water thoroughly** using the soak method described above
+2. If soil is hydrophobic, **bottom water for 30 minutes** to rehydrate
+3. **Increase humidity** to reduce water loss through leaves
+4. **Check your watering schedule** — you may need to water more frequently
+5. **Consider pot size** — a pot that's too small dries out faster. Prayer plants [stay relatively compact](/blog/how-big-does-a-prayer-plant-get), but still need adequate root room.
+
+## Seasonal Watering Adjustments
+
+### Spring & Summer (Growing Season)
+- Water every **5–7 days** or when the top inch of soil is dry
+- Growth is active, so the plant uses water more quickly
+- Higher temperatures increase evaporation
+- This is also the best time for [pruning](/blog/how-to-prune-prayer-plant) and [propagation](/blog/how-to-propagate-prayer-plant)
+
+### Autumn & Winter (Dormant Period)
+- Reduce watering to every **10–14 days**
+- Growth slows significantly, reducing water needs
+- Lower light levels mean less photosynthesis and water usage
+- Be especially careful about overwatering during this period
+
+## Humidity and Watering
+
+Prayer plants thrive in **50–60% humidity or higher**. Low humidity increases water loss through the leaves (transpiration), which means:
+
+- The plant loses moisture faster
+- You may need to water more frequently
+- Leaf tips and edges are more prone to browning
+
+Ways to increase humidity:
+
+- **Humidity tray** — Place the pot on a tray of pebbles and water
+- **Group plants together** — Plants create a micro-climate of higher humidity
+- **Use a humidifier** — The most effective solution
+- **Mist occasionally** — Provides temporary relief but not a long-term solution
+
+## The Best Soil for Proper Drainage
+
+The right soil mix is critical for proper water management. Prayer plants need a mix that is:
+
+- **Moisture-retentive** enough to keep roots consistently damp
+- **Well-draining** enough to prevent waterlogging
+- **Airy** enough to allow oxygen to reach the roots
+
+A great DIY mix:
+- 2 parts peat moss or coco coir
+- 1 part perlite
+- 1 part compost or worm castings
+`,
+    faqs: [
+      {
+        question: "How often should I water my prayer plant?",
+        answer: "Water your prayer plant every 5–7 days during spring and summer, and every 10–14 days in autumn and winter. The best method is to check the top inch of soil — when it feels dry, it's time to water. Environmental factors like light, temperature, humidity, and pot type all affect frequency."
+      },
+      {
+        question: "Can I use tap water for my prayer plant?",
+        answer: "Prayer plants are sensitive to chemicals in tap water, particularly chlorine, chloramine, and fluoride, which can cause brown leaf tips. Filtered water or rainwater is best. If using tap water, let it sit out overnight to allow chlorine to evaporate, though this won't remove chloramine or fluoride."
+      },
+      {
+        question: "How do I know if I'm overwatering my prayer plant?",
+        answer: "Signs of overwatering include yellowing lower leaves, mushy soft stems, soggy soil that won't dry out, fungus gnats, mold on the soil surface, and wilting despite wet soil. If you suspect overwatering, stop watering, check for root rot, and repot in fresh soil if roots are brown and mushy."
+      },
+      {
+        question: "Should I mist my prayer plant?",
+        answer: "Misting provides temporary humidity but isn't a long-term solution. Prayer plants prefer consistently high humidity (50–60%+). More effective methods include using a humidifier, placing the pot on a pebble tray with water, or grouping plants together to create a humid micro-climate."
+      },
+      {
+        question: "Why are my prayer plant's leaf tips turning brown?",
+        answer: "Brown leaf tips are most commonly caused by low humidity, chemicals in tap water (chlorine, fluoride), or inconsistent watering. Switch to filtered or rainwater, increase humidity to above 50%, and maintain a consistent watering schedule where the top inch of soil is allowed to dry between waterings."
+      },
+    ],
+  },
+  {
+    slug: "how-big-does-a-prayer-plant-get",
+    title: "How Big Does a Prayer Plant Get? Size, Growth Rate & What to Expect",
+    metaTitle: "How Big Does a Prayer Plant Get? | Size & Growth Guide 2026",
+    metaDescription: "Discover how big prayer plants grow indoors, their growth rate, factors that affect size, and tips to encourage fuller, larger growth.",
+    excerpt: "Find out exactly how large your prayer plant will grow, what affects its size, and how to encourage healthy, full growth at every stage.",
+    publishDate: "2026-03-10",
+    readTime: "8 min read",
+    heroImage: "/images/lemon-lime-prayer-plant.jpg",
+    content: `
+## How Big Do Prayer Plants Grow?
+
+Prayer plants (*Maranta leuconeura*) are **compact, low-growing houseplants** that won't take over your living room. Under typical indoor conditions, a mature prayer plant reaches:
+
+- **Height**: 6–12 inches (15–30 cm)
+- **Spread**: 12–18 inches (30–45 cm)
+- **Leaf size**: 4–6 inches (10–15 cm) long
+
+Unlike many tropical houseplants that can grow several feet tall, prayer plants stay relatively small and spread horizontally rather than growing upward. This makes them ideal for shelves, desks, tabletops, and hanging baskets. To learn more about what makes these plants special, read our [complete guide to prayer plants](/blog/what-is-a-prayer-plant).
+
+## Growth Rate: What to Expect
+
+Prayer plants are considered **moderate growers**. Here's a general timeline:
+
+| Age | Expected Size | Notes |
+|-----|--------------|-------|
+| Young (0–6 months) | 3–5 inches tall | Establishing roots, slow top growth |
+| Adolescent (6–12 months) | 5–8 inches tall | Growth accelerates, new leaves every 2–3 weeks |
+| Mature (1–3 years) | 8–12 inches tall | Full size, spreading habit develops |
+| Established (3+ years) | 10–12 inches tall, 15–18 inches wide | Maximum size, may need division |
+
+During the **active growing season** (spring and summer), a healthy prayer plant can produce **one new leaf every 1–2 weeks**. Growth slows dramatically or stops entirely during autumn and winter.
+
+## Factors That Affect Size
+
+### 1. Light
+
+Light is the **single biggest factor** determining how large and full your prayer plant grows. Plants receiving [optimal bright indirect light](/blog/how-much-sun-does-a-prayer-plant-need) grow larger, produce bigger leaves, and develop more vibrant patterns.
+
+- **Bright indirect light** → Maximum size, full growth, vivid colors
+- **Medium light** → Moderate growth, slightly smaller leaves
+- **Low light** → Stunted, leggy growth with smaller, paler leaves
+
+### 2. Watering
+
+Consistent, proper [watering](/blog/how-much-water-does-a-prayer-plant-need) directly impacts growth. Prayer plants that receive the right amount of water at the right time grow faster and larger than those on an inconsistent schedule.
+
+- **Consistent moisture** → Steady, healthy growth
+- **Underwatering** → Stunted growth, smaller leaves, crispy edges
+- **Overwatering** → Root rot, declining size, leaf loss
+
+### 3. Humidity
+
+Prayer plants are tropical and thrive in **50–60% humidity or higher**. Humidity significantly affects leaf size:
+
+- **High humidity (60%+)** → Larger, lusher leaves with better unfurling
+- **Moderate humidity (40–50%)** → Normal growth
+- **Low humidity (<40%)** → Smaller leaves, brown edges, stunted growth
+
+### 4. Pot Size
+
+The pot size creates a natural limit on growth:
+
+- **Too small** → Root-bound plants grow slowly and produce smaller leaves
+- **Just right** → 1–2 inches larger than the root ball allows healthy growth
+- **Too large** → Excess soil retains moisture, increasing root rot risk
+
+Repot your prayer plant every **1–2 years** into a pot one size up (1–2 inches wider in diameter).
+
+### 5. Fertilization
+
+During the growing season, feed your prayer plant with a **balanced liquid fertilizer** diluted to half strength every **2–4 weeks**. Proper nutrition supports larger leaves and faster growth.
+
+- Use a balanced 10-10-10 or 20-20-20 formula
+- Always dilute to half the recommended strength
+- Stop fertilizing in autumn and winter
+- Never fertilize a stressed or recently [pruned](/blog/how-to-prune-prayer-plant) plant
+
+## Size by Variety
+
+Different prayer plant varieties grow to slightly different sizes:
+
+### Maranta leuconeura var. erythroneura (Red Prayer Plant)
+- **Height**: 8–12 inches
+- **Spread**: 12–18 inches
+- **Leaf size**: 4–6 inches
+- The most common variety with striking red veins on dark green leaves
+
+### Maranta leuconeura var. kerchoveana (Green Prayer Plant)
+- **Height**: 6–10 inches
+- **Spread**: 10–15 inches
+- **Leaf size**: 4–5 inches
+- Slightly more compact with dark green blotches on lighter green leaves
+
+### Maranta leuconeura var. massangeana (Black Prayer Plant)
+- **Height**: 6–8 inches
+- **Spread**: 10–14 inches
+- **Leaf size**: 3–5 inches
+- The most compact variety with silvery-blue leaves and dark markings
+
+### Lemon Lime Prayer Plant
+- **Height**: 6–10 inches
+- **Spread**: 10–16 inches
+- **Leaf size**: 4–5 inches
+- Vibrant lime green and yellow coloring, moderate grower
+
+## How to Encourage Bigger, Fuller Growth
+
+If you want your prayer plant to reach its maximum size potential, follow these tips:
+
+### Optimize Growing Conditions
+1. **Provide bright indirect light** — The foundation of healthy growth. See our [detailed light guide](/blog/how-much-sun-does-a-prayer-plant-need).
+2. **Maintain consistent watering** — Keep soil evenly moist. Follow our [complete watering guide](/blog/how-much-water-does-a-prayer-plant-need).
+3. **Boost humidity** to 60% or higher using a humidifier or pebble tray
+4. **Keep temperature** between 65–80°F (18–27°C) with no cold drafts
+
+### Encourage Branching
+- **Regular pruning** stimulates bushier growth. Learn [how to prune properly](/blog/how-to-prune-prayer-plant) for the best results.
+- **Pinch growing tips** to encourage lateral branching
+- Each cut point can produce **two new stems**, effectively doubling the fullness
+
+### Propagate and Replant
+For the fullest possible plant, [propagate stem cuttings](/blog/how-to-propagate-prayer-plant) and plant them back in the same pot. This creates a dense, lush display much faster than waiting for a single plant to fill out.
+
+## When to Divide a Prayer Plant
+
+After 2–3 years, a mature prayer plant may become crowded and benefit from division:
+
+- **Signs it needs dividing**: Roots circling the bottom of the pot, water running straight through without being absorbed, multiple distinct clumps visible at the soil surface
+- **Best time**: Spring, at the start of the growing season
+- **Method**: Gently separate the root ball into 2–3 sections, each with several stems and a healthy root system. Pot each division in fresh soil.
+
+Division is different from pruning — where [pruning removes foliage](/blog/how-to-prune-prayer-plant) to shape the plant, division separates the root system to create new individual plants.
+
+## Prayer Plant Size vs. Other Houseplants
+
+To put prayer plant size in perspective:
+
+| Plant | Typical Indoor Height | Spread |
+|-------|----------------------|--------|
+| Prayer Plant | 6–12 inches | 12–18 inches |
+| Pothos | 6–10 feet (trailing) | 12–18 inches |
+| Monstera | 3–8 feet | 2–4 feet |
+| Snake Plant | 1–4 feet | 6–12 inches |
+| Calathea | 1–3 feet | 1–2 feet |
+| Fiddle Leaf Fig | 4–10 feet | 2–4 feet |
+
+Prayer plants are among the **smallest popular houseplants**, which is part of their charm. They fit perfectly on nightstands, bathroom shelves, office desks, and windowsills where larger plants wouldn't work.
+
+## Will My Prayer Plant Grow Bigger Outdoors?
+
+In USDA hardiness zones 11–12, prayer plants can grow outdoors year-round and may reach slightly larger sizes — up to **18–24 inches tall** with a spread of **24–30 inches**. The increased humidity, air circulation, and natural light outdoors can push growth beyond typical indoor limits.
+
+However, most gardeners outside tropical climates should keep prayer plants indoors. They cannot tolerate temperatures below 55°F (13°C) and will suffer cold damage quickly.
+`,
+    faqs: [
+      {
+        question: "How tall does a prayer plant grow?",
+        answer: "Indoor prayer plants typically grow 6–12 inches (15–30 cm) tall and spread 12–18 inches (30–45 cm) wide. They're low-growing, spreading plants that stay compact. Outdoors in tropical climates, they can reach up to 18–24 inches tall."
+      },
+      {
+        question: "How fast do prayer plants grow?",
+        answer: "Prayer plants are moderate growers. During the active growing season (spring and summer), a healthy plant can produce one new leaf every 1–2 weeks. It takes about 1–3 years for a prayer plant to reach its mature size of 8–12 inches tall. Growth slows or stops in winter."
+      },
+      {
+        question: "Why is my prayer plant not growing?",
+        answer: "The most common reasons for stunted growth are insufficient light, inconsistent watering, low humidity, being root-bound, or it's simply winter (dormant period). Ensure bright indirect light, consistent moisture, humidity above 50%, and repot if roots are circling the bottom of the pot."
+      },
+      {
+        question: "Do prayer plants need big pots?",
+        answer: "No, prayer plants prefer slightly snug pots — about 1–2 inches larger than the root ball in diameter. Too-large pots retain excess moisture and increase root rot risk. Repot every 1–2 years, moving up just one pot size each time."
+      },
+      {
+        question: "Can I make my prayer plant grow bigger?",
+        answer: "Yes! Maximize growth by providing bright indirect light, consistent watering, humidity above 60%, regular fertilizing during the growing season (half-strength every 2–4 weeks), and pruning to encourage branching. You can also propagate cuttings and replant them in the same pot for a fuller look."
+      },
+    ],
+  },
 ];
 
 export const getPostBySlug = (slug: string): BlogPost | undefined => {
