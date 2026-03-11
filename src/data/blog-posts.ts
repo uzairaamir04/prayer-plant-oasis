@@ -208,6 +208,8 @@ A great recipe: 2 parts peat moss (or coco coir), 1 part perlite, 1 part coarse 
 | Established roots | 3–5 weeks | 4–6 weeks | 2–3 weeks |
 | New leaf growth | 4–8 weeks | 5–8 weeks | 3–6 weeks |
 | Mature plant | 3–6 months | 3–6 months | 1–3 months |
+
+Once established, learn [how big your new prayer plant will grow](/blog/how-big-does-a-prayer-plant-get) and how to [handle yellowing leaves](/blog/why-is-my-prayer-plant-turning-yellow) if any issues arise.
     `,
     faqs: [
       {
