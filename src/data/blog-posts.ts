@@ -127,7 +127,7 @@ Getting the light right also impacts [how big your prayer plant grows](/blog/how
 
 Propagation is one of the most rewarding aspects of plant parenthood. With prayer plants, it's also surprisingly straightforward. Whether you want to expand your collection, share plants with friends, or rejuvenate an overgrown specimen, understanding propagation techniques will serve you well.
 
-Prayer plants (*Maranta leuconeura*) can be propagated through two primary methods: **stem cuttings** and **division**. Both have high success rates when done correctly, and the best time to propagate is during the active growing season — **spring through early summer**.
+Prayer plants (*Maranta leuconeura*) can be propagated through two primary methods: **stem cuttings** and **division**. Both have high success rates when done correctly, and the best time to propagate is during the active growing season — **spring through early summer**. If you're unfamiliar with prayer plants, start with our [beginner's guide to prayer plants](/blog/what-is-a-prayer-plant) first.
 
 ## Method 1: Stem Cutting Propagation
 
