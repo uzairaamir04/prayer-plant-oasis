@@ -344,7 +344,7 @@ Now that you understand the science behind the name, you might want to learn the
 
 Yellow leaves on a prayer plant are one of the most common concerns among plant owners, but the good news is that it's almost always fixable once you identify the cause. Prayer plants (*Maranta leuconeura*) are expressive communicators — yellowing leaves are their way of telling you something needs to change.
 
-Let's walk through the **9 most common causes** of yellowing prayer plant leaves, from most to least likely, along with targeted solutions for each.
+Let's walk through the **9 most common causes** of yellowing prayer plant leaves, from most to least likely, along with targeted solutions for each. If you're new to these plants, start with our [complete guide to prayer plants](/blog/what-is-a-prayer-plant) to understand their basic needs.
 
 ## 1. Overwatering — The #1 Culprit
 
