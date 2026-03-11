@@ -153,7 +153,7 @@ Using sterilized scissors, cut the stem approximately 1/4 inch below a node. The
 Remove any leaves from the lower portion of the cutting — any foliage that would be submerged in water or buried in soil should be removed to prevent rot. If using rooting hormone, dip the cut end lightly into the powder and tap off excess.
 
 **Step 4a: Water Propagation**
-Place the cutting in a clear glass jar filled with room-temperature filtered water. Ensure at least one node is submerged. Position the jar in a spot with bright, indirect light and change the water every 3–5 days to prevent bacterial growth. You should see roots beginning to emerge within **1–3 weeks**.
+Place the cutting in a clear glass jar filled with room-temperature filtered water — see our guide on [what water to use for prayer plants](/blog/how-much-water-does-a-prayer-plant-need) for tips on water quality. Ensure at least one node is submerged. Position the jar in a spot with [bright, indirect light](/blog/how-much-sun-does-a-prayer-plant-need) and change the water every 3–5 days to prevent bacterial growth. You should see roots beginning to emerge within **1–3 weeks**.
 
 **Step 4b: Soil Propagation**
 Alternatively, plant the cutting directly into moist, well-draining potting mix. Insert the stem about 1–2 inches deep, ensuring the node is buried. Keep the soil consistently moist (but not waterlogged) and maintain high humidity by covering with a clear plastic bag or humidity dome.
