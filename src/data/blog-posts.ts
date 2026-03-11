@@ -256,7 +256,7 @@ The mechanism behind this movement lies in a specialized structure called the **
 
 Here's the process:
 
-1. **During the day**: Light signals cause potassium ions to flow into cells on the lower side of the pulvinus. Water follows by osmosis, making these cells swell. The upper cells simultaneously lose water and shrink. This imbalance pushes the leaf into its open, horizontal position.
+1. **During the day**: [Light](/blog/how-much-sun-does-a-prayer-plant-need) signals cause potassium ions to flow into cells on the lower side of the pulvinus. Water follows by osmosis, making these cells swell. The upper cells simultaneously lose water and shrink. This imbalance pushes the leaf into its open, horizontal position.
 
 2. **At night**: The process reverses. Potassium ions shift to the upper cells, water follows, and the upper cells swell while the lower cells shrink. This pulls the leaf upward into the "praying" position.
 
