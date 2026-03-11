@@ -29,7 +29,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 ## Understanding Prayer Plant Light Requirements
 
-Prayer plants (*Maranta leuconeura*) are native to the tropical rainforests of Brazil, where they grow on the forest floor beneath a dense canopy of taller trees. This natural habitat tells us everything we need to know about their light preferences: **bright, indirect light** is the sweet spot.
+Prayer plants (*Maranta leuconeura*) are native to the tropical rainforests of Brazil, where they grow on the forest floor beneath a dense canopy of taller trees. This natural habitat tells us everything we need to know about their light preferences: **bright, indirect light** is the sweet spot. If you're new to these plants, our [complete beginner's guide to prayer plants](/blog/what-is-a-prayer-plant) covers everything you need to know.
 
 In the wild, prayer plants rarely receive direct sunlight. Instead, they thrive in the dappled, filtered light that passes through layers of foliage above them. Replicating these conditions in your home is the key to keeping your prayer plant healthy and vibrant.
 
