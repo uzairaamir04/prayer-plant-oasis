@@ -91,6 +91,8 @@ If your space doesn't offer much natural light, investing in a quality grow ligh
 3. **Use sheer curtains** to transform harsh direct light into ideal diffused light.
 4. **Monitor light with an app** — free lux meter apps on your smartphone can help you find the perfect spot.
 5. **Group plants together** — this creates a micro-humidity environment that complements proper lighting.
+
+Getting the light right also impacts [how big your prayer plant grows](/blog/how-big-does-a-prayer-plant-get) and how often you'll need to [prune](/blog/how-to-prune-prayer-plant). With the right conditions, you may even want to [propagate your plant](/blog/how-to-propagate-prayer-plant) to share with friends.
     `,
     faqs: [
       {
