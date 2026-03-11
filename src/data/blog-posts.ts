@@ -306,6 +306,10 @@ Prayer plants aren't the only species that exhibit nyctinasty:
 - **Legumes (beans, peas)** — Many species fold leaves at night
 
 However, prayer plants remain the most dramatic and visually striking practitioners of this botanical behavior.
+
+## Caring for Your Prayer Plant
+
+Now that you understand the science behind the name, you might want to learn the essentials of keeping your prayer plant thriving. Explore our guides on [how much water prayer plants need](/blog/how-much-water-does-a-prayer-plant-need), [proper lighting](/blog/how-much-sun-does-a-prayer-plant-need), [pruning techniques](/blog/how-to-prune-prayer-plant), and [how to propagate](/blog/how-to-propagate-prayer-plant) your plant to grow your collection.
     `,
     faqs: [
       {
