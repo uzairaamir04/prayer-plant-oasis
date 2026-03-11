@@ -29,7 +29,7 @@ export const blogPosts: BlogPost[] = [
     content: `
 ## Understanding Prayer Plant Light Requirements
 
-Prayer plants (*Maranta leuconeura*) are native to the tropical rainforests of Brazil, where they grow on the forest floor beneath a dense canopy of taller trees. This natural habitat tells us everything we need to know about their light preferences: **bright, indirect light** is the sweet spot.
+Prayer plants (*Maranta leuconeura*) are native to the tropical rainforests of Brazil, where they grow on the forest floor beneath a dense canopy of taller trees. This natural habitat tells us everything we need to know about their light preferences: **bright, indirect light** is the sweet spot. If you're new to these plants, our [complete beginner's guide to prayer plants](/blog/what-is-a-prayer-plant) covers everything you need to know.
 
 In the wild, prayer plants rarely receive direct sunlight. Instead, they thrive in the dappled, filtered light that passes through layers of foliage above them. Replicating these conditions in your home is the key to keeping your prayer plant healthy and vibrant.
 
@@ -54,9 +54,9 @@ When a prayer plant receives excessive light, you'll notice several telltale sym
 2. **Curling leaves** — Leaves curl inward as a defense mechanism to reduce the surface area exposed to light.
 3. **Brown, crispy edges or tips** — Particularly on leaves facing the light source.
 4. **Yellowing leaves** — Especially on the side closest to the window.
-5. **Soil drying out rapidly** — Intense light accelerates evaporation, leading to chronic underwatering.
+5. **Soil drying out rapidly** — Intense light accelerates evaporation, leading to chronic underwatering. Learn more in our [complete watering guide](/blog/how-much-water-does-a-prayer-plant-need).
 
-If you spot these signs, move your plant further from the window or add a sheer curtain between the plant and the light source.
+If you spot these signs, move your plant further from the window or add a sheer curtain between the plant and the light source. Excessive light can also cause [yellowing leaves](/blog/why-is-my-prayer-plant-turning-yellow), so address lighting issues promptly.
 
 ## Signs Your Prayer Plant Isn't Getting Enough Light
 
@@ -91,6 +91,8 @@ If your space doesn't offer much natural light, investing in a quality grow ligh
 3. **Use sheer curtains** to transform harsh direct light into ideal diffused light.
 4. **Monitor light with an app** — free lux meter apps on your smartphone can help you find the perfect spot.
 5. **Group plants together** — this creates a micro-humidity environment that complements proper lighting.
+
+Getting the light right also impacts [how big your prayer plant grows](/blog/how-big-does-a-prayer-plant-get) and how often you'll need to [prune](/blog/how-to-prune-prayer-plant). With the right conditions, you may even want to [propagate your plant](/blog/how-to-propagate-prayer-plant) to share with friends.
     `,
     faqs: [
       {
@@ -125,14 +127,14 @@ If your space doesn't offer much natural light, investing in a quality grow ligh
 
 Propagation is one of the most rewarding aspects of plant parenthood. With prayer plants, it's also surprisingly straightforward. Whether you want to expand your collection, share plants with friends, or rejuvenate an overgrown specimen, understanding propagation techniques will serve you well.
 
-Prayer plants (*Maranta leuconeura*) can be propagated through two primary methods: **stem cuttings** and **division**. Both have high success rates when done correctly, and the best time to propagate is during the active growing season — **spring through early summer**.
+Prayer plants (*Maranta leuconeura*) can be propagated through two primary methods: **stem cuttings** and **division**. Both have high success rates when done correctly, and the best time to propagate is during the active growing season — **spring through early summer**. If you're unfamiliar with prayer plants, start with our [beginner's guide to prayer plants](/blog/what-is-a-prayer-plant) first.
 
 ## Method 1: Stem Cutting Propagation
 
 Stem cuttings are the most popular propagation method for prayer plants because they're simple and effective.
 
 ### What You'll Need
-- Sharp, sterilized scissors or pruning shears
+- Sharp, sterilized scissors or pruning shears (see our [pruning guide](/blog/how-to-prune-prayer-plant) for sterilization tips)
 - A healthy, mature prayer plant with multiple stems
 - A clean glass jar or container for water propagation
 - Fresh potting mix (if soil propagating)
@@ -151,7 +153,7 @@ Using sterilized scissors, cut the stem approximately 1/4 inch below a node. The
 Remove any leaves from the lower portion of the cutting — any foliage that would be submerged in water or buried in soil should be removed to prevent rot. If using rooting hormone, dip the cut end lightly into the powder and tap off excess.
 
 **Step 4a: Water Propagation**
-Place the cutting in a clear glass jar filled with room-temperature filtered water. Ensure at least one node is submerged. Position the jar in a spot with bright, indirect light and change the water every 3–5 days to prevent bacterial growth. You should see roots beginning to emerge within **1–3 weeks**.
+Place the cutting in a clear glass jar filled with room-temperature filtered water — see our guide on [what water to use for prayer plants](/blog/how-much-water-does-a-prayer-plant-need) for tips on water quality. Ensure at least one node is submerged. Position the jar in a spot with [bright, indirect light](/blog/how-much-sun-does-a-prayer-plant-need) and change the water every 3–5 days to prevent bacterial growth. You should see roots beginning to emerge within **1–3 weeks**.
 
 **Step 4b: Soil Propagation**
 Alternatively, plant the cutting directly into moist, well-draining potting mix. Insert the stem about 1–2 inches deep, ensuring the node is buried. Keep the soil consistently moist (but not waterlogged) and maintain high humidity by covering with a clear plastic bag or humidity dome.
@@ -194,7 +196,7 @@ A great recipe: 2 parts peat moss (or coco coir), 1 part perlite, 1 part coarse 
 1. **Cutting below the node** — Always ensure at least one node is on the cutting; roots grow from nodes, not from random stem tissue.
 2. **Using dull scissors** — Ragged cuts invite infection. Always sterilize with rubbing alcohol before cutting.
 3. **Neglecting water changes** — Stagnant water breeds bacteria that can rot cuttings within days.
-4. **Too much direct light** — Cuttings are vulnerable. Keep them in gentle, indirect light during rooting.
+4. **Too much direct light** — Cuttings are vulnerable. Keep them in gentle, [indirect light](/blog/how-much-sun-does-a-prayer-plant-need) during rooting.
 5. **Overwatering soil cuttings** — Moist, not soggy. Root rot is the number one killer of new propagations.
 6. **Propagating in winter** — Growth hormones are less active in dormancy, dramatically reducing success rates.
 
@@ -206,6 +208,8 @@ A great recipe: 2 parts peat moss (or coco coir), 1 part perlite, 1 part coarse 
 | Established roots | 3–5 weeks | 4–6 weeks | 2–3 weeks |
 | New leaf growth | 4–8 weeks | 5–8 weeks | 3–6 weeks |
 | Mature plant | 3–6 months | 3–6 months | 1–3 months |
+
+Once established, learn [how big your new prayer plant will grow](/blog/how-big-does-a-prayer-plant-get) and how to [handle yellowing leaves](/blog/why-is-my-prayer-plant-turning-yellow) if any issues arise.
     `,
     faqs: [
       {
@@ -238,7 +242,7 @@ A great recipe: 2 parts peat moss (or coco coir), 1 part perlite, 1 part coarse 
     content: `
 ## The Origin of the Name
 
-The prayer plant earns its evocative name from a remarkable nightly ritual: as darkness falls, its leaves fold upward and press together, resembling a pair of hands clasped in prayer. When morning light returns, the leaves unfold and spread flat once more. This mesmerizing daily movement has captivated plant enthusiasts for centuries and given the *Maranta leuconeura* its beloved common name.
+The prayer plant earns its evocative name from a remarkable nightly ritual: as darkness falls, its leaves fold upward and press together, resembling a pair of hands clasped in prayer. When morning light returns, the leaves unfold and spread flat once more. This mesmerizing daily movement has captivated plant enthusiasts for centuries and given the *Maranta leuconeura* its beloved common name. For a complete overview of this fascinating houseplant, see our [beginner's guide to prayer plants](/blog/what-is-a-prayer-plant).
 
 The comparison to praying hands isn't just poetic — it's strikingly accurate. If you watch a time-lapse of a prayer plant over 24 hours, the resemblance is unmistakable. The leaves rise steadily as evening approaches, reaching their most upright position around midnight, then gradually descend as dawn breaks.
 
@@ -252,7 +256,7 @@ The mechanism behind this movement lies in a specialized structure called the **
 
 Here's the process:
 
-1. **During the day**: Light signals cause potassium ions to flow into cells on the lower side of the pulvinus. Water follows by osmosis, making these cells swell. The upper cells simultaneously lose water and shrink. This imbalance pushes the leaf into its open, horizontal position.
+1. **During the day**: [Light](/blog/how-much-sun-does-a-prayer-plant-need) signals cause potassium ions to flow into cells on the lower side of the pulvinus. Water follows by osmosis, making these cells swell. The upper cells simultaneously lose water and shrink. This imbalance pushes the leaf into its open, horizontal position.
 
 2. **At night**: The process reverses. Potassium ions shift to the upper cells, water follows, and the upper cells swell while the lower cells shrink. This pulls the leaf upward into the "praying" position.
 
@@ -302,6 +306,10 @@ Prayer plants aren't the only species that exhibit nyctinasty:
 - **Legumes (beans, peas)** — Many species fold leaves at night
 
 However, prayer plants remain the most dramatic and visually striking practitioners of this botanical behavior.
+
+## Caring for Your Prayer Plant
+
+Now that you understand the science behind the name, you might want to learn the essentials of keeping your prayer plant thriving. Explore our guides on [how much water prayer plants need](/blog/how-much-water-does-a-prayer-plant-need), [proper lighting](/blog/how-much-sun-does-a-prayer-plant-need), [pruning techniques](/blog/how-to-prune-prayer-plant), and [how to propagate](/blog/how-to-propagate-prayer-plant) your plant to grow your collection.
     `,
     faqs: [
       {
@@ -336,7 +344,7 @@ However, prayer plants remain the most dramatic and visually striking practition
 
 Yellow leaves on a prayer plant are one of the most common concerns among plant owners, but the good news is that it's almost always fixable once you identify the cause. Prayer plants (*Maranta leuconeura*) are expressive communicators — yellowing leaves are their way of telling you something needs to change.
 
-Let's walk through the **9 most common causes** of yellowing prayer plant leaves, from most to least likely, along with targeted solutions for each.
+Let's walk through the **9 most common causes** of yellowing prayer plant leaves, from most to least likely, along with targeted solutions for each. If you're new to these plants, start with our [complete guide to prayer plants](/blog/what-is-a-prayer-plant) to understand their basic needs.
 
 ## 1. Overwatering — The #1 Culprit
 
@@ -353,7 +361,7 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 1. Stop watering immediately and let the top 1–2 inches of soil dry out
 2. Check drainage — ensure your pot has drainage holes and isn't sitting in standing water
 3. If root rot is suspected, unpot the plant, trim any brown/mushy roots with sterilized scissors, and repot in fresh, well-draining soil
-4. Going forward, water only when the top inch of soil is dry
+4. Going forward, water only when the top inch of soil is dry — see our [complete watering guide](/blog/how-much-water-does-a-prayer-plant-need) for detailed techniques
 
 ## 2. Underwatering
 
@@ -384,8 +392,8 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 **The fix**:
 1. Move the plant away from direct sunlight
 2. Use sheer curtains to filter intense light
-3. Relocate to a north or east-facing window
-4. Damaged leaves won't recover their color, but new growth will be healthy
+3. Relocate to a north or east-facing window — see our [complete light guide](/blog/how-much-sun-does-a-prayer-plant-need) for optimal placement
+4. Damaged leaves won't recover their color, but new growth will be healthy. You can [prune away damaged leaves](/blog/how-to-prune-prayer-plant) to redirect energy
 
 ## 4. Water Quality Issues
 
@@ -478,7 +486,7 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 - No other symptoms present
 
 **The fix**:
-No action needed! Simply remove the yellow leaves with clean scissors to keep the plant looking tidy and prevent any potential fungal issues from decaying foliage.
+No action needed! Simply [remove the yellow leaves](/blog/how-to-prune-prayer-plant) with clean scissors to keep the plant looking tidy and prevent any potential fungal issues from decaying foliage.
 
 ## Prevention: Keeping Leaves Green and Healthy
 
@@ -488,8 +496,9 @@ The best approach is preventive care:
 - Maintain 50–60% humidity
 - Fertilize regularly during the growing season
 - Keep temperatures stable between 65–80°F
-- Repot every 1–2 years
+- Repot every 1–2 years — prayer plants [stay compact](/blog/how-big-does-a-prayer-plant-get) but still need fresh soil
 - Inspect regularly for pests (spider mites, mealybugs, and scale can also cause yellowing)
+- Consider [propagating healthy cuttings](/blog/how-to-propagate-prayer-plant) before removing damaged stems
     `,
     faqs: [
       {
@@ -579,10 +588,10 @@ Both belong to the same family and share the "prayer plant" nickname due to thei
 ## Basic Care Overview
 
 ### Light
-**Bright, indirect light** is ideal. Prayer plants evolved on the forest floor under dense canopy, so they thrive in filtered light. Avoid direct sunlight, which scorches their delicate leaves.
+**[Bright, indirect light](/blog/how-much-sun-does-a-prayer-plant-need)** is ideal. Prayer plants evolved on the forest floor under dense canopy, so they thrive in filtered light. Avoid direct sunlight, which scorches their delicate leaves and can cause [yellowing](/blog/why-is-my-prayer-plant-turning-yellow).
 
 ### Water
-Keep soil **consistently moist but not waterlogged**. Water when the top inch of soil feels dry, typically every 1–2 weeks. Use **filtered or distilled water** — prayer plants are sensitive to chlorine and fluoride in tap water.
+Keep soil **consistently moist but not waterlogged**. Water when the top inch of soil feels dry, typically every 1–2 weeks. Use **filtered or distilled water** — prayer plants are sensitive to chlorine and fluoride in tap water. See our [detailed watering guide](/blog/how-much-water-does-a-prayer-plant-need) for more tips.
 
 ### Humidity
 As tropical plants, prayer plants love humidity levels of **50–60%**. Use a humidifier, pebble tray, or group plants together to maintain adequate moisture in the air.
@@ -633,6 +642,17 @@ When purchasing, look for plants with:
 2. **"They need constant misting"** — Misting provides temporary humidity at best. A humidifier or pebble tray is far more effective.
 3. **"They only come in one variety"** — There are numerous cultivars with wildly different patterns and colors.
 4. **"They don't flower"** — Prayer plants do produce small, delicate white or purple flowers, though they're subtle compared to the dramatic foliage.
+
+## Next Steps: Growing Your Prayer Plant Knowledge
+
+Ready to dive deeper? Explore our detailed care guides:
+- [How much sun does a prayer plant need?](/blog/how-much-sun-does-a-prayer-plant-need) — Master the perfect light conditions
+- [How much water does a prayer plant need?](/blog/how-much-water-does-a-prayer-plant-need) — Get your watering routine dialed in
+- [How to prune a prayer plant](/blog/how-to-prune-prayer-plant) — Keep your plant compact and bushy
+- [How to propagate a prayer plant](/blog/how-to-propagate-prayer-plant) — Multiply your collection for free
+- [How big does a prayer plant get?](/blog/how-big-does-a-prayer-plant-get) — Know what to expect as it matures
+- [Why is it called a prayer plant?](/blog/why-is-it-called-a-prayer-plant) — The fascinating science behind the name
+- [Why is my prayer plant turning yellow?](/blog/why-is-my-prayer-plant-turning-yellow) — Troubleshoot common problems
     `,
     faqs: [
       {

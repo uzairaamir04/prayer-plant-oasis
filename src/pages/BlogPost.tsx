@@ -258,6 +258,7 @@ const BlogPost = () => {
 
   const formatInline = (text: string): string => {
     return text
+      .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" class="text-primary underline hover:text-primary/80 transition-colors">$1</a>')
       .replace(/\*\*(.+?)\*\*/g, '<strong class="text-foreground font-semibold">$1</strong>')
       .replace(/\*(.+?)\*/g, "<em>$1</em>")
       .replace(/`(.+?)`/g, '<code class="px-1.5 py-0.5 bg-secondary rounded text-sm">$1</code>');
