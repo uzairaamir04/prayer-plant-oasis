@@ -486,7 +486,7 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 - No other symptoms present
 
 **The fix**:
-No action needed! Simply remove the yellow leaves with clean scissors to keep the plant looking tidy and prevent any potential fungal issues from decaying foliage.
+No action needed! Simply [remove the yellow leaves](/blog/how-to-prune-prayer-plant) with clean scissors to keep the plant looking tidy and prevent any potential fungal issues from decaying foliage.
 
 ## Prevention: Keeping Leaves Green and Healthy
 
