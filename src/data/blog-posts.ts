@@ -392,8 +392,8 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 **The fix**:
 1. Move the plant away from direct sunlight
 2. Use sheer curtains to filter intense light
-3. Relocate to a north or east-facing window
-4. Damaged leaves won't recover their color, but new growth will be healthy
+3. Relocate to a north or east-facing window — see our [complete light guide](/blog/how-much-sun-does-a-prayer-plant-need) for optimal placement
+4. Damaged leaves won't recover their color, but new growth will be healthy. You can [prune away damaged leaves](/blog/how-to-prune-prayer-plant) to redirect energy
 
 ## 4. Water Quality Issues
 
