@@ -54,9 +54,9 @@ When a prayer plant receives excessive light, you'll notice several telltale sym
 2. **Curling leaves** — Leaves curl inward as a defense mechanism to reduce the surface area exposed to light.
 3. **Brown, crispy edges or tips** — Particularly on leaves facing the light source.
 4. **Yellowing leaves** — Especially on the side closest to the window.
-5. **Soil drying out rapidly** — Intense light accelerates evaporation, leading to chronic underwatering.
+5. **Soil drying out rapidly** — Intense light accelerates evaporation, leading to chronic underwatering. Learn more in our [complete watering guide](/blog/how-much-water-does-a-prayer-plant-need).
 
-If you spot these signs, move your plant further from the window or add a sheer curtain between the plant and the light source.
+If you spot these signs, move your plant further from the window or add a sheer curtain between the plant and the light source. Excessive light can also cause [yellowing leaves](/blog/why-is-my-prayer-plant-turning-yellow), so address lighting issues promptly.
 
 ## Signs Your Prayer Plant Isn't Getting Enough Light
 
