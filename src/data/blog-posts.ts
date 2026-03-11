@@ -196,7 +196,7 @@ A great recipe: 2 parts peat moss (or coco coir), 1 part perlite, 1 part coarse 
 1. **Cutting below the node** — Always ensure at least one node is on the cutting; roots grow from nodes, not from random stem tissue.
 2. **Using dull scissors** — Ragged cuts invite infection. Always sterilize with rubbing alcohol before cutting.
 3. **Neglecting water changes** — Stagnant water breeds bacteria that can rot cuttings within days.
-4. **Too much direct light** — Cuttings are vulnerable. Keep them in gentle, indirect light during rooting.
+4. **Too much direct light** — Cuttings are vulnerable. Keep them in gentle, [indirect light](/blog/how-much-sun-does-a-prayer-plant-need) during rooting.
 5. **Overwatering soil cuttings** — Moist, not soggy. Root rot is the number one killer of new propagations.
 6. **Propagating in winter** — Growth hormones are less active in dormancy, dramatically reducing success rates.
 
