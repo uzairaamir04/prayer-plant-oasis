@@ -134,7 +134,7 @@ Prayer plants (*Maranta leuconeura*) can be propagated through two primary metho
 Stem cuttings are the most popular propagation method for prayer plants because they're simple and effective.
 
 ### What You'll Need
-- Sharp, sterilized scissors or pruning shears
+- Sharp, sterilized scissors or pruning shears (see our [pruning guide](/blog/how-to-prune-prayer-plant) for sterilization tips)
 - A healthy, mature prayer plant with multiple stems
 - A clean glass jar or container for water propagation
 - Fresh potting mix (if soil propagating)
