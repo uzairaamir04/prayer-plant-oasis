@@ -496,8 +496,9 @@ The best approach is preventive care:
 - Maintain 50–60% humidity
 - Fertilize regularly during the growing season
 - Keep temperatures stable between 65–80°F
-- Repot every 1–2 years
+- Repot every 1–2 years — prayer plants [stay compact](/blog/how-big-does-a-prayer-plant-get) but still need fresh soil
 - Inspect regularly for pests (spider mites, mealybugs, and scale can also cause yellowing)
+- Consider [propagating healthy cuttings](/blog/how-to-propagate-prayer-plant) before removing damaged stems
     `,
     faqs: [
       {
