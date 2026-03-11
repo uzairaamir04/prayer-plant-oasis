@@ -242,7 +242,7 @@ Once established, learn [how big your new prayer plant will grow](/blog/how-big-
     content: `
 ## The Origin of the Name
 
-The prayer plant earns its evocative name from a remarkable nightly ritual: as darkness falls, its leaves fold upward and press together, resembling a pair of hands clasped in prayer. When morning light returns, the leaves unfold and spread flat once more. This mesmerizing daily movement has captivated plant enthusiasts for centuries and given the *Maranta leuconeura* its beloved common name.
+The prayer plant earns its evocative name from a remarkable nightly ritual: as darkness falls, its leaves fold upward and press together, resembling a pair of hands clasped in prayer. When morning light returns, the leaves unfold and spread flat once more. This mesmerizing daily movement has captivated plant enthusiasts for centuries and given the *Maranta leuconeura* its beloved common name. For a complete overview of this fascinating houseplant, see our [beginner's guide to prayer plants](/blog/what-is-a-prayer-plant).
 
 The comparison to praying hands isn't just poetic — it's strikingly accurate. If you watch a time-lapse of a prayer plant over 24 hours, the resemblance is unmistakable. The leaves rise steadily as evening approaches, reaching their most upright position around midnight, then gradually descend as dawn breaks.
 
