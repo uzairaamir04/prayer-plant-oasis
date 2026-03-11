@@ -588,10 +588,10 @@ Both belong to the same family and share the "prayer plant" nickname due to thei
 ## Basic Care Overview
 
 ### Light
-**Bright, indirect light** is ideal. Prayer plants evolved on the forest floor under dense canopy, so they thrive in filtered light. Avoid direct sunlight, which scorches their delicate leaves.
+**[Bright, indirect light](/blog/how-much-sun-does-a-prayer-plant-need)** is ideal. Prayer plants evolved on the forest floor under dense canopy, so they thrive in filtered light. Avoid direct sunlight, which scorches their delicate leaves and can cause [yellowing](/blog/why-is-my-prayer-plant-turning-yellow).
 
 ### Water
-Keep soil **consistently moist but not waterlogged**. Water when the top inch of soil feels dry, typically every 1–2 weeks. Use **filtered or distilled water** — prayer plants are sensitive to chlorine and fluoride in tap water.
+Keep soil **consistently moist but not waterlogged**. Water when the top inch of soil feels dry, typically every 1–2 weeks. Use **filtered or distilled water** — prayer plants are sensitive to chlorine and fluoride in tap water. See our [detailed watering guide](/blog/how-much-water-does-a-prayer-plant-need) for more tips.
 
 ### Humidity
 As tropical plants, prayer plants love humidity levels of **50–60%**. Use a humidifier, pebble tray, or group plants together to maintain adequate moisture in the air.
