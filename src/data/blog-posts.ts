@@ -361,7 +361,7 @@ Let's walk through the **9 most common causes** of yellowing prayer plant leaves
 1. Stop watering immediately and let the top 1–2 inches of soil dry out
 2. Check drainage — ensure your pot has drainage holes and isn't sitting in standing water
 3. If root rot is suspected, unpot the plant, trim any brown/mushy roots with sterilized scissors, and repot in fresh, well-draining soil
-4. Going forward, water only when the top inch of soil is dry
+4. Going forward, water only when the top inch of soil is dry — see our [complete watering guide](/blog/how-much-water-does-a-prayer-plant-need) for detailed techniques
 
 ## 2. Underwatering
 
